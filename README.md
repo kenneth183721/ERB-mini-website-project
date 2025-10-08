@@ -1,4 +1,4 @@
 # ERB-mini-website-project
 
-ERB Mini Website Project
+Static Website-1
 
