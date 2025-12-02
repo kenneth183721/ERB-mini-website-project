@@ -1,4 +1,3 @@
 # ERB-mini-website-project
 
-Static Website-1
-
+This is a personal project for a Static Website in the ERB course, completed using HTML, CSS, and Javascript.
